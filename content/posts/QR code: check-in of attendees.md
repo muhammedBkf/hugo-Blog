@@ -19,7 +19,7 @@ This took us a weekend to implement, and we had no previous knowledge about some
 After that we could even add a **dashboard**.
 ![stats.png](/img/qrcode/stats.png)  
 
-|input|output|         
+|||         
 |----------------|-------------------------------|
 | ![blender](/img/qrcode/1cp.png) |![blenderAscii](/img/qrcode/2cp.png) |
 
