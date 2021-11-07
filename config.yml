@@ -13,6 +13,6 @@ params:
         - name: instagram
           url: "https://www.instagram.com/med_bkf/"
 
-
+baseURL: https://muhammad-blog.netlify.app/
 languageCode: en-us
 title: Muhammad's Blog
