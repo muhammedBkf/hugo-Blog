@@ -1,0 +1,18 @@
+
+theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: Hi there !
+        Content: "I am **BOUKERFA Muhammad El Amin**, a computer science student at [ESI Alger](https://www.esi.dz/).\n\n
+        I am a **cybersecurity** enthusiast, interested in **problem solving** and everything related to **coding**.\n\n
+        I'll be sharing my **journey** coding/hacking in this blog.\n\n
+        You can find some **projects** i worked on below, all **source code** can be found on my github." 
+    socialIcons:
+        - name: github
+          url: "https://github.com/muhammedBkf"
+        - name: instagram
+          url: "https://www.instagram.com/med_bkf/"
+
+
+languageCode: en-us
+title: Muhammad's Blog
