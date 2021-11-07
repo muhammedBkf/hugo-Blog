@@ -1,6 +1,6 @@
 ---
 title: "Shellmates Welcome-day challenge BOT"
-date: 2020-09-15T11:30:03+00:00
+date: 2021-11-05
 draft: false
 # weight: 1
 ---
@@ -13,8 +13,7 @@ At [Shellmates Club](https://shellmates.club/), we decided to make a **challenge
 # The challenge
 
 ## phase 1
-We have stuck this **QRcode** in important places on campus, when you scan it, it will redirect you to the **discord server** where you will find the challenge bot.
-![databaseScheme.png](/img/shellmates_bot/bot.png)
+We have stuck this **QRcode** in important places on campus, when you scan it, it will redirect you to the **discord server** where you will find the challenge bot.![databaseScheme.png](/img/shellmates_bot/bot.png)
 
 ## phase 2
 After you DM the **bot** it will explain the challenge to you then give you the first part of the flag.
